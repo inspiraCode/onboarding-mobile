@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   input: {
-    height: 40,
+    height: 45,
     borderColor: "gray",
     borderWidth: 1,
     marginBottom: 10,
